@@ -17,7 +17,7 @@ http://dx.doi.org/10.1093/nar/gkh399
 [2] Oliver JL, Bernaola-Galván P, Hackenberg M, Carpena P. 2008. Phylogenetic distribution of large-scale genome patchiness. BMC Evolutionary Biology 8: 107.
 http://dx.doi.org/10.1186/1471-2148-8-107
 
-[3] Bernaola-Galván P, Oliver JL, Hackenberg M, Coronado AV, Ivanov P Ch, Carpena P. 2012. Segmentation of time series with long-range fractal correlations. The European Physical Journal B 85: 211 [PDF]
+[3] Bernaola-Galván P, Oliver JL, Hackenberg M, Coronado AV, Ivanov P Ch, Carpena P. 2012. Segmentation of time series with long-range fractal correlations. The European Physical Journal B 85: 211
 http://dx.doi.org/10.1140/epjb/e2012-20969-5
 
 [4] Carpena P, Oliver JL, Hackenberg M, Coronado AV, Barturen G, Bernaola-Galván, P. 2011.
