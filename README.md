@@ -14,6 +14,9 @@ Minor code updates:
 
 3.	Increased minimum segment size to improve the reliability of statistical tests
 
+
+References
+
 [1] Oliver JL, Carpena P, Hackenberg M, Bernaola-Galván P. 2004. IsoFinder: computational prediction of isochores in genome sequences. Nucleic Acids Research 32: W287-W292.
 http://dx.doi.org/10.1093/nar/gkh399
 
