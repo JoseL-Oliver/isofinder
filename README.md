@@ -7,8 +7,11 @@ Recently, the organization of isochores into high-level chromosome superstructur
 On the website http://bioinfo2.ugr.es/isochores/, the isochores predicted by IsoFinder for the best-assembled mammalian genome sequences are listed ['isochores' link on the left menu]. When available, genome coverages of each isochore for genes, SINEs, LINEs and PhastCons are also provided. In addition, through the UCSC Track Hub facility, the resulting isochore genome maps are shown ['map' link].
 
 Minor code updates:
+
 1.	Output file in BED-like format
+
 2.	Better identification of chromosome-contigs for recent genome assemblies
+
 3.	Increased minimum segment size to improve the reliability of statistical tests
 
 [1] Oliver JL, Carpena P, Hackenberg M, Bernaola-Galván P. 2004. IsoFinder: computational prediction of isochores in genome sequences. Nucleic Acids Research 32: W287-W292.
