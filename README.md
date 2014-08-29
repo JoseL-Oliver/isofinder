@@ -11,7 +11,7 @@ Minor code updates:
 2.	Better identification of chromosome-contigs for recent genome assemblies
 3.	Increased minimum segment size to improve the reliability of statistical tests
 
-*References*
+**References**
 
 [1] Bernardi,G., Olofson,B., Filipski,J., Zerial,M., Salinas,J., Cuny,G., Meunier-Rotival,M. and Rodier,F. (1985) The mosaic genome of warm-blooded vertebrates. Science, 228, 953–958.
 
